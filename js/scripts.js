@@ -1,3 +1,4 @@
+// Business logic
 const isLucky = (answers) {
   let luckyCount = 0;
   let unluckyCount = 0;
